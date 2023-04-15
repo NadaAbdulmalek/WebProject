@@ -2,9 +2,6 @@
 
 # Date of Submission : [12-2-2023]
 
-# Instructure:
-(Amal AlGfis)
-
 ## Group :
 <p>
 Ameerah : 440019129 <br>
@@ -12,6 +9,9 @@ Raghad Aldakhil : 440023173 <br>
 Nada Alkharji : 440020563 <br>
 Khadijah : 440028317 <br>
 Ruba : 440019725
+  قروب من خمسة طالبات، 
+عملت على:
+أسماء ملفاتي + لغات البرمجة.
 </p>
 
 # Discription :
